@@ -1,4 +1,4 @@
-# Microservices API (0.0.1-draft)
+# Microservices API (0.0.2-draft)
 
 ## Что это? / WTF?
 
